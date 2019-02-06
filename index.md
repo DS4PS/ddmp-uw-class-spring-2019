@@ -69,9 +69,14 @@ textbooks:
 
 
 
-# Course Description
 
-The course will cover ways that data can be used to improve performance in public organizations, as well as tools and techniques for collecting, analyzing, and displaying data.  Thus, an emphasis will both be placed on the substantive idea behind using data for performance management as well as programming.  The class will be taught in R software and will introduce students to its language, structure, and capabilities for data analysis.   Through  R,  students  will  become  comfortable  inputting,  manipulating,  and  visualizing  data  through  the  software.  In addition to the technical skills gained, students will be introduced to how data can drive performance management through a self-directed project and understand the potential and possible abuses of data to drive public organizations.  As part of the class, students will collect their own data, use that data in  an  individual  experiment  to  test  performance,  and  display  the  outcome  using  a  ’dashboard’ in R.
+# Course Objectives
+
+1. Use data analytics to improve performance in public management.  
+2. Understand the R language for the collection and manipulation of data.  
+3. Produce visualizations in dashboards to ease decision making.  
+
+
 
 # Prerequisites 
 
@@ -87,11 +92,6 @@ https://www.datacamp.com/courses/free-introduction-to-r
 
 
 
-# Course Objectives
-
-1. Use data analytics to improve performance in public management.  
-2. Understand the R language for the collection and manipulation of data.  
-3. Produce visualizations in dashboards to ease decision making.  
 
 
 
