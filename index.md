@@ -149,7 +149,7 @@ This course requires working in groups.  You should have decided who will be in 
 
 # Course Schedule
 
-*This represents a general plan. Check on the Schedule tab of this site for the most recent dates and deadlines.*
+This represents a general plan. Check on the Schedule tab of this site for the most recent dates and deadlines.
 
 ### Week 01, 04/01 - 04/05:    Intro to R for performance
 
@@ -166,60 +166,54 @@ This course requires working in groups.  You should have decided who will be in 
 
 ### Week 03, 04/15 - 04/19:    R Data structures
 
-•  Lists.
-
-•  Vectors.
-
-•  Data frames. 
+* Lists.
+* Vectors.
+* Data frames. 
 
 
-Week 04, 04/22 - 04/26:    Working on data frames
+### Week 04, 04/22 - 04/26:    Working on data frames
 
-•  Logical operators.
-
-•  Control of execution
-
-•  Functions.
+* Logical operators.
+* Control of execution
+* Functions.
 
 
-Week 05, 04/29 - 05/03:    Intro to Data Visualization
+### Week 05, 04/29 - 05/03:    Intro to Data Visualization
 
-•  Visualization guidelines.
-
-•  R and the grammar of graphics.
-
-
-Week 06, 05/06 - 05/10:    Spatial and Multidimensional visualization
-
-•  Bivariate and multivariate plots.
-
-•  Mapping in R.
+* Visualization guidelines.
+* R and the grammar of graphics.
 
 
-Week 07, 05/13 - 05/17:    Dynamic visualization:
+### Week 06, 05/06 - 05/10:    Spatial and Multidimensional visualization
 
-•  The design and construction of dashboards.
-
-
-Week 08, 05/20 - 05/24:    R and evidence production
-
-•  Analysis of experiments.
-
-•  Testing outcomes in R.
+* Bivariate and multivariate plots.
+* Mapping in R.
 
 
-Week 09, 05/27 - 05/31:    Memorial day
+### Week 07, 05/13 - 05/17:    Dynamic visualization:
+
+* The design and construction of dashboards.
+
+
+### Week 08, 05/20 - 05/24:    R and evidence production
+
+* Analysis of experiments.
+* Testing outcomes in R.
+
+
+### Week 09, 05/27 - 05/31:    Memorial day
+
 Instructions will be given on what to do for this week.
 
 
-Week 10, 06/03 - 06/07:    Advanced topics for dashboards
+### Week 10, 06/03 - 06/07:    Advanced topics for dashboards
 
-•  Shiny widgets.
+* Shiny widgets.
+* Advanced dashboards.
 
-•  Advanced dashboards.
 
+### Week 11, 06/10 - 06/14:    Final week
 
-Week 11, 06/10 - 06/14:    Final week
 Submitting final project.
 
 
