@@ -15,18 +15,29 @@ info:
  class_meets_where: Online; Review sessions in UCENT 580A (Wed) & 480A (Th)
 
 instructor:
--  name: Jesse Lecy
+-  name: José Manuel Magallanes, PhD
    title: Professor
-   email: jdlecy@asu.edu
-   website_url: http://www.lecy.info/
+   email: magajm@uw.edu
+   website_url: https://evans.uw.edu/profile/magallanes
    office_hours_times: Flexible, by appointment
-   office_hours_location:  UCENT 517
-   office_hours_app_url:  https://calendly.com/lecy/15min/
-   github_url: https://github.com/lecy
+   office_hours_location:  Virtual
+   office_hours_app_url:  
+   github_url: https://github.com/MAGALLANESJoseManuel
    twitter_url: 
-   scholar_url: https://scholar.google.com/citations?user=Ir8H4wMAAAAJ&hl=en
+   scholar_url: 
    linked_in_url:
-
+-  name: Eric Van Holm, PhD.
+   title: Professor
+   email: evanholm@asu.edu
+   website_url: https://csteps.asu.edu/content/eric-van-holm
+   office_hours_times: Flexible, by appointment
+   office_hours_location:  Virtual
+   office_hours_app_url:  
+   github_url: 
+   twitter_url: 
+   scholar_url: https://scholar.google.com/citations?user=xvJW22AAAAAJ&hl=en
+   linked_in_url:
+   
 textbooks:
 - title: R Cookbook. Proven recipes
   authors: Paul Teetor
