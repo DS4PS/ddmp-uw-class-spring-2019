@@ -37,7 +37,12 @@ Unit Metadata is comprised of:
 
 
 
-** Section-II Foundations of Data Programming
+
+
+
+
+** Section-II Data Programming
+
 
 
 
@@ -100,7 +105,9 @@ Unit Metadata is comprised of:
 
 
 
-** Section-III Performance Dashboards
+** Section-III Dashboards
+
+
 
 
 *** { @unit = "13th May", @title = "Dynamic visualization:", @reading, @lecture, @assignment }
