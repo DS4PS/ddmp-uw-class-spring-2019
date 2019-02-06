@@ -3,16 +3,16 @@ layout: index
 title: Syllabus
 
 info: 
- program_title: MS in Program Evaluation and Data Analytics
+ program_title: Evans School of Public Policy
  program_website: 
- course_title: Introduction to Data Science for the Social Sector
- course_number: CPP 591
+ course_title: Data-Driven Management and Policy
+ course_number: PUBPOL 599
  course_level: Graduate
- course_website: 
- course_start_end_dates: Aug 16th - Dec 5th, 2018
+ course_website: https://canvas.uw.edu
+ course_start_end_dates: Spring Quarter, 2019
  course_prerequisites: None
- class_meets_when:  Online; In-Person Review Sessions Wed 6-7pm & Thurs 1-2pm
- class_meets_where: Online; Review sessions in UCENT 580A (Wed) & 480A (Th)
+ class_meets_when:  Monday 17:00-19:30 Pacific Time
+ class_meets_where: Online
 
 instructor:
 -  name: José Manuel Magallanes, PhD
