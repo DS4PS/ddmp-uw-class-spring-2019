@@ -23,25 +23,89 @@ Unit Metadata is comprised of:
 
 ** Section-I
 
+*** { @unit = "1st April", @title = "Intro to R for Performance", @reading, @lecture, @assignment @foldout }
+
+
+* Introduction to Markdown, R, and R Studio
+* Uses of data in public management, reasons for doing experiments.
+
+
+*** { @unit = "8th April", @title = "R basic elements", @reading, @lecture, @assignment }
+*** { @unit = "15th April", @title = "R Data structures", @reading, @lecture, @assignment }
+*** { @unit = "29th April", @title = "Working on data frames", @reading, @lecture, @assignment }
+*** { @unit = "15th Nov", @title = "Course Overview", @reading, @lecture, @assignment }
+*** { @unit = "15th Nov", @title = "Course Overview", @reading, @lecture, @assignment }
+*** { @unit = "15th Nov", @title = "Course Overview", @reading, @lecture, @assignment }
+*** { @unit = "15th Nov", @title = "Course Overview", @reading, @lecture, @assignment }
+*** { @unit = "15th Nov", @title = "Course Overview", @reading, @lecture, @assignment }
+*** { @unit = "15th Nov", @title = "Course Overview", @reading, @lecture, @assignment }
 *** { @unit = "15th Nov", @title = "Course Overview", @reading, @lecture, @assignment }
 
+    
 
 
 
 
-# Course Overview 
+Week 02, 04/08 - 04/12:    R basic elements
 
-welcome
-
-organization
-- textbooks
-- lectures
-- assignments
-- labs
-
-how to succeed
+* Data types in R
+* Ways  of  collecting  data:  passive,  active,  administrative  intro  to  life  logging  and  semester project.
+* Design of Experiments.
 
 
+Week 03, 04/15 - 04/19:    R Data structures
+
+* Lists.
+* Vectors.
+* Data frames. 
+
+
+Week 04, 04/22 - 04/26:    Working on data frames
+
+* Logical operators.
+* Control of execution
+* Functions.
+
+
+Week 05, 04/29 - 05/03:    Intro to Data Visualization
+
+* Visualization guidelines.
+* R and the grammar of graphics.
+
+
+Week 06, 05/06 - 05/10:    Spatial and Multidimensional visualization
+
+* Bivariate and multivariate plots.
+* Mapping in R.
+
+
+Week 07, 05/13 - 05/17:    Dynamic visualization:
+
+* The design and construction of dashboards.
+
+
+Week 08, 05/20 - 05/24:    R and evidence production
+
+* Analysis of experiments.
+* Testing outcomes in R.
+
+
+Week 09, 05/27 - 05/31:    Memorial day
+Instructions will be given on what to do for this week.
+
+
+Week 10, 06/03 - 06/07:    Advanced topics for dashboards
+
+* Shiny widgets.
+* Advanced dashboards.
+
+
+Week 11, 06/10 - 06/14:    Final week
+Submitting final project.
+
+
+
+** Section-II
 
 
 *** {@unit = "17th Nov", @title = "Introduction to Data Science", @reading, @lecture, @foldout}
@@ -180,7 +244,7 @@ Teetor, P. (2011). R cookbook: Proven recipes for data analysis, statistics, and
 
 
 
-** Section-II
+
 
 
 *** {@unit = "10th Dec", @title = "Expressive Business Rules", @assignment, @foldout}
