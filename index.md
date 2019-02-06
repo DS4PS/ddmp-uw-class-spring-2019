@@ -69,9 +69,14 @@ textbooks:
 
 
 
-# Course Description
 
-The course will cover ways that data can be used to improve performance in public organizations, as well as tools and techniques for collecting, analyzing, and displaying data.  Thus, an emphasis will both be placed on the substantive idea behind using data for performance management as well as programming.  The class will be taught in R software and will introduce students to its language, structure, and capabilities for data analysis.   Through  R,  students  will  become  comfortable  inputting,  manipulating,  and  visualizing  data  through  the  software.  In addition to the technical skills gained, students will be introduced to how data can drive performance management through a self-directed project and understand the potential and possible abuses of data to drive public organizations.  As part of the class, students will collect their own data, use that data in  an  individual  experiment  to  test  performance,  and  display  the  outcome  using  a  ’dashboard’ in R.
+# Course Objectives
+
+1. Use data analytics to improve performance in public management.  
+2. Understand the R language for the collection and manipulation of data.  
+3. Produce visualizations in dashboards to ease decision making.  
+
+
 
 # Prerequisites 
 
@@ -87,11 +92,6 @@ https://www.datacamp.com/courses/free-introduction-to-r
 
 
 
-# Course Objectives
-
-1. Use data analytics to improve performance in public management.  
-2. Understand the R language for the collection and manipulation of data.  
-3. Produce visualizations in dashboards to ease decision making.  
 
 
 
@@ -149,7 +149,7 @@ This course requires working in groups.  You should have decided who will be in 
 
 # Course Schedule
 
-*This represents a general plan. Check on the Schedule tab of this site for the most recent dates and deadlines.*
+This represents a general plan. Check on the Schedule tab of this site for the most recent dates and deadlines.
 
 ### Week 01, 04/01 - 04/05:    Intro to R for performance
 
@@ -166,60 +166,54 @@ This course requires working in groups.  You should have decided who will be in 
 
 ### Week 03, 04/15 - 04/19:    R Data structures
 
-•  Lists.
-
-•  Vectors.
-
-•  Data frames. 
+* Lists.
+* Vectors.
+* Data frames. 
 
 
-Week 04, 04/22 - 04/26:    Working on data frames
+### Week 04, 04/22 - 04/26:    Working on data frames
 
-•  Logical operators.
-
-•  Control of execution
-
-•  Functions.
+* Logical operators.
+* Control of execution
+* Functions.
 
 
-Week 05, 04/29 - 05/03:    Intro to Data Visualization
+### Week 05, 04/29 - 05/03:    Intro to Data Visualization
 
-•  Visualization guidelines.
-
-•  R and the grammar of graphics.
-
-
-Week 06, 05/06 - 05/10:    Spatial and Multidimensional visualization
-
-•  Bivariate and multivariate plots.
-
-•  Mapping in R.
+* Visualization guidelines.
+* R and the grammar of graphics.
 
 
-Week 07, 05/13 - 05/17:    Dynamic visualization:
+### Week 06, 05/06 - 05/10:    Spatial and Multidimensional visualization
 
-•  The design and construction of dashboards.
-
-
-Week 08, 05/20 - 05/24:    R and evidence production
-
-•  Analysis of experiments.
-
-•  Testing outcomes in R.
+* Bivariate and multivariate plots.
+* Mapping in R.
 
 
-Week 09, 05/27 - 05/31:    Memorial day
+### Week 07, 05/13 - 05/17:    Dynamic visualization:
+
+* The design and construction of dashboards.
+
+
+### Week 08, 05/20 - 05/24:    R and evidence production
+
+* Analysis of experiments.
+* Testing outcomes in R.
+
+
+### Week 09, 05/27 - 05/31:    Memorial day
+
 Instructions will be given on what to do for this week.
 
 
-Week 10, 06/03 - 06/07:    Advanced topics for dashboards
+### Week 10, 06/03 - 06/07:    Advanced topics for dashboards
 
-•  Shiny widgets.
+* Shiny widgets.
+* Advanced dashboards.
 
-•  Advanced dashboards.
 
+### Week 11, 06/10 - 06/14:    Final week
 
-Week 11, 06/10 - 06/14:    Final week
 Submitting final project.
 
 
