@@ -98,7 +98,7 @@ https://www.datacamp.com/courses/free-introduction-to-r
 
 # Software
 
-Students are expected to install the following software on their computers prior to the first week of class:
+*Students are expected to install the following software on their computers prior to the first week of class:*
 
 *  R (choose according to your Operating System):
 https://cran.r-project.org/
