@@ -339,13 +339,13 @@ disqus: true
                         newCell2.setAttribute("colspan", "6");
                         //var titleMatch = new RegExp("(?<=<hr>)(.*\n?)(?=<hr>)");
                         var divsec = document.createElement("div");
-                        divsec.setAttribute("style", "background-color: #fdfdfd;width:80%;");
+                        divsec.setAttribute("style", "background-color: #fdfdfd;width:100%;");
                         divsec.innerHTML = t;
                         divsec.setAttribute("class", "child");
 
                         var sec = sections[i2].cloneNode("True");
 
-                        sec.setAttribute("style", "width:auto;text-align:left;margin-left:50px;margin-right:50px;word-wrap:break-word");
+                        sec.setAttribute("style", "width:auto;text-align:left;margin-left:150px;margin-right:50px;word-wrap:break-word");
 
                         divsec.appendChild(sec);
                         divsec.innerHTML = divsec.innerHTML + t;
