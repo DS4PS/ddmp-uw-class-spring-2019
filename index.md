@@ -74,7 +74,7 @@ body {
  
 p.italic {
   font-style: italic;
-  color: black;
+  color: black !important;
 }
 
 </style>
