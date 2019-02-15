@@ -67,7 +67,17 @@ textbooks:
 
 --- 
 
+<style> 
+body {
+   font-family: "Roboto", sans-serif;
+}
+ 
+p.italic {
+  font-style: italic;
+  color: black;
+}
 
+</style>
 
 
 # Course Objectives
