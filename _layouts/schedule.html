@@ -79,7 +79,7 @@ disqus: true
                 <!-- <i class="fas fa-external-link-alt" style="color: rgb(140,29,64);"> -->
                 <br>
 
-                <table  style="width:100%; margin-right:auto; padding-left:5px;">
+                <table  style="width:100%; margin-left:auto; padding-left:5px; padding-right:5px;">
                     <!--    <tr>
                         <td> <br> </td>
                     </tr>
@@ -339,7 +339,8 @@ disqus: true
                         newCell2.setAttribute("colspan", "6");
                         //var titleMatch = new RegExp("(?<=<hr>)(.*\n?)(?=<hr>)");
                         var divsec = document.createElement("div");
-                        divsec.setAttribute("style", "background-color: #efefef;width:100%;");
+                        divsec.setAttribute("style", "background-color: #fff; width:100%;");
+                        divsec.setAttribute("style", "border-style: dashed; border-color: darkred;");
                         divsec.innerHTML = t;
                         divsec.setAttribute("class", "child");
 
