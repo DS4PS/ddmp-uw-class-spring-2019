@@ -19,10 +19,12 @@ Unit Metadata is comprised of:
 @foldout - activate unit content (allow foldout)
 -->
 
+
+
 ** Prerequisites
 
 
-*** { @unit = "pre-April", @title = "Getting Started with R and Markdown", @reading, @lecture, @assignment, @foldout }
+*** { @unit = "pre-April", @title = "Why Learn R", @reading, @lecture, @assignment, @foldout }
 
 
 # Why Learn R (or Python)?
@@ -34,15 +36,31 @@ Data programming languages are different from traditional programming languages.
 This course focuses on R and Markdown (not quite a language, but a formatting convention for data-driven documents). Python and Notebooks are similar tools that you will encounter in this space, and they are somewhat interchangeable. If you start out as a computer scientist or engineer and evolve into working in the data science space you will likely use Python. If you start as as a social scientists or a statistician and venture into the data science space chances are you are using R. The differences between the two is more cultural than practical.
 
 
+
+*** { @unit = "pre-April", @title = "Installation", @reading, @lecture, @assignment, @foldout }
+
 # Installing R and R Studio
 
 asdfasfd....
+
+
+*** { @unit = "pre-April", @title = "Data-Driven Documents with Markdown", @reading, @lecture, @assignment, @foldout }
+
+[R Markdown: The bigger picture - Garrett Grolemund](https://resources.rstudio.com/rstudio-conf-2019/r-markdown-the-bigger-picture)
+
+
+[Markdown Basics](https://ds4ps.github.io/data-driven-management-textbook/markdown/)
+
+
 
 # My First Markdown File
 
 asdfasdf
 
-[R Markdown: The bigger picture - Garrett Grolemund](https://resources.rstudio.com/rstudio-conf-2019/r-markdown-the-bigger-picture)
+
+
+*** { @unit = "pre-April", @title = "Getting Started with R", @reading, @lecture, @assignment, @foldout }
+
 
 # Getting Familiar with R
 
@@ -57,6 +75,10 @@ plot( x, y )
 ```
 
 Example code...
+
+
+
+
 
 
 ** Section-I Course Overview
