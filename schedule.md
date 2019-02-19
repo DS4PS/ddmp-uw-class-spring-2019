@@ -50,6 +50,13 @@ If this is your first time working with R, we recommend spending 4 hours to work
 
 [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r)
 
+```r
+x <- 1:100
+y <- 2*x + rnorm(100)
+plot( x, y )
+```
+
+Example code...
 
 
 ** Section-I Course Overview
