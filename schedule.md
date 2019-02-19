@@ -58,6 +58,7 @@ asdfasfd....
 asdfasdf
 
 
+![](assets/img/analysis_pipeline.png)
 
 
 
