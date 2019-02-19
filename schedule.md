@@ -19,8 +19,27 @@ Unit Metadata is comprised of:
 @foldout - activate unit content (allow foldout)
 -->
 
+** Prerequisites
 
 
+*** { @unit = "pre-April", @title = "Getting Started with R and Markdown", @reading, @lecture, @assignment, @foldout }
+
+
+# Installing R and R Studio
+
+asdfasfd....
+
+# My First Markdown File
+
+asdfasdf
+
+[R Markdown: The bigger picture - Garrett Grolemund](https://resources.rstudio.com/rstudio-conf-2019/r-markdown-the-bigger-picture)
+
+# Getting Familiar with R
+
+If this is your first time working with R, we recommend spending 4 hours to work through some of these examples to become familiar with the syntax and basic data structures:
+
+[Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r)
 
 
 
