@@ -37,14 +37,14 @@ This course focuses on R and Markdown (not quite a language, but a formatting co
 
 
 
-*** { @unit = "pre-April", @title = "Installation", @reading, @lecture, @assignment, @foldout }
+*** { @unit = "", @title = "Installation", @reading, @lecture, @assignment, @foldout }
 
 # Installing R and R Studio
 
 asdfasfd....
 
 
-*** { @unit = "pre-April", @title = "Data-Driven Documents with Markdown", @reading, @lecture, @assignment, @foldout }
+*** { @unit = "", @title = "Data-Driven Documents with Markdown", @reading, @lecture, @assignment, @foldout }
 
 [R Markdown: The bigger picture - Garrett Grolemund](https://resources.rstudio.com/rstudio-conf-2019/r-markdown-the-bigger-picture)
 
@@ -59,8 +59,9 @@ asdfasdf
 
 
 
-*** { @unit = "pre-April", @title = "Getting Started with R", @reading, @lecture, @assignment, @foldout }
 
+
+*** { @unit = "", @title = "Getting Started with R", @reading, @lecture, @assignment, @foldout }
 
 # Getting Familiar with R
 
@@ -92,7 +93,7 @@ Example code...
 * Uses of data in public management, reasons for doing experiments.
 
 
-*** { @unit = "", @title = "Data-Driven Management", @reading, @lecture, @assignment, @foldout }
+*** { @unit = "", @title = "Data-Driven Management", @reading, @foldout }
 
 [Big Data: The Management Revolution](https://hbr.org/2012/10/big-data-the-management-revolution)
 
