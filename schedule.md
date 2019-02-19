@@ -92,8 +92,43 @@ Example code...
 * Uses of data in public management, reasons for doing experiments.
 
 
+*** { @unit = "", @title = "Data-Driven Management", @reading, @lecture, @assignment, @foldout }
+
+[Big Data: The Management Revolution](https://hbr.org/2012/10/big-data-the-management-revolution)
+
+...pull a few quotes...
+
+## The Promise of Big Data [cite](https://www.theregister.co.uk/2017/06/07/go_small_on_big_data/)
+
+In 2017 The Economist declared, "Data is to this century what oil was to the last one: a driver of growth and change. Flows of data have created new infrastructure, new businesses, new monopolies, new politics and – crucially – new economics."
+
+In 2011 McKinsey & Co. described big data as "the next frontier for innovation, competition, and productivity.” 
+
+GE looked to big data to drive "changes as profound as industrialization... in the late 1700s".
 
 
+
+## Challenges of Harnessing Data
+
+Many organizations have been slow in compiling, classifying, and organizing the data sitting in siloes and dark corners. It’s “a boring, boring job,” says Ger Baron, Amsterdam’s first-ever chief technology officer. “But very useful!” 
+
+He ought to know. The Netherlands’ capital has 12,000 different datasets, and even they can’t tell him everything about the city. For example, no one knows exactly how many bridges span Amsterdam’s famous canals, because the city’s individual districts have not centralized their infrastructure data. [cite](https://sloanreview.mit.edu/case-study/lessons-from-becoming-a-data-driven-organization/)
+
+That story underscores the challenges organizations face in the realm of data governance, or the methods and rules that organizations use to assure the quality of data, manage it, integrate it into business processes, and manage its risks. 
+
+**Abundant Data by Itself Solves Nothing:** Despite the promise of big data, industrial enterprises are struggling to maximize its value. Why? Abundant data by itself solves nothing. Its unstructured nature, sheer volume, and variety exceed human capacity and traditional tools to organize it efficiently and at a cost which supports return on investment requirements. Inherent challenges tied to evolution and integration of industrial information and operational technology, make it difficult to glean intelligence from operational data, compromising projects underway and promise for further investment and value.  [cite](https://graymattersystems.com/cio-survey-reveals-challenges-opportunities-potential-industrial-big-data/)
+
+**Firms are years away from getting full value from their data assets.** Throwing cash at the problem isn't helping matters either. Companies need to scale back their ambitions to invest in projects that are more evolutionary than revolutionary in nature, looking to tweak rather than overhaul existing operational practices. In short, the best big data strategy may be to go small. [cite](https://www.theregister.co.uk/2017/06/07/go_small_on_big_data/)
+
+
+
+## Effective Approaches Entail [cite](https://sloanreview.mit.edu/case-study/lessons-from-becoming-a-data-driven-organization/)
+
+Organizations across the business spectrum are awakening to the transformative power of data and analytics. They are also coming to grips with the daunting difficulty of the task that lies before them. It’s tough enough for many organizations to catalog and categorize the data at their disposal and devise the rules and processes for using it. It’s even tougher to translate that data into tangible value.
+
+There  would be no data and analytics revolution without easily accessible, increasingly inexpensive computing power: the cloud, the Internet, and powerful, versatile software and algorithms. Yet technology is only part of the story. People are equally important.
+
+The technology and the people who deploy it also need a process or system of rules to guide how people create and use information. Rules help transform the noise of disordered information into legible signals with the power to sharpen and deepen the focus on the customer (broadly defined), and in the process improve health outcomes, the customer experience, the realization of business value, and civic life and engagement.
 
 
 
