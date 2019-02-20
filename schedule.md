@@ -58,7 +58,7 @@ asdfasfd....
 asdfasdf
 
 
-![](assets/img/analysis_pipieline.png)
+![](/assets/img/analysis_pipieline.png)
 
 
 
