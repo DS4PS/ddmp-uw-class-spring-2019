@@ -24,7 +24,7 @@ Unit Metadata is comprised of:
 ** Prerequisites
 
 
-*** { @unit = "pre-April", @title = "Why Learn R", @reading, @lecture, @assignment, @foldout }
+*** { @unit = "Prior to April 1st", @title = "Why Learn R", @reading, @lecture, @assignment, @foldout }
 
 
 # Why Learn R (or Python)?
@@ -60,8 +60,7 @@ asdfasdf
 
 ![](/assets/img/analysis_pipieline.png)
 
-<img src="https://raw.githubusercontent.com/DS4PS/ddmp-uw-class-spring-2019/master/assets/img/analysis_pipieline.png" 
-alt="women in cs" width="700" />
+
 
 
 *** { @unit = "", @title = "Getting Started with R", @reading, @lecture, @assignment, @foldout }
