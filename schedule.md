@@ -60,6 +60,8 @@ asdfasdf
 
 ![](/assets/img/analysis_pipieline.png)
 
+<img src="https://raw.githubusercontent.com/DS4PS/ddmp-uw-class-spring-2019/master/assets/img/analysis_pipieline.png" 
+alt="women in cs" width="700" />
 
 
 *** { @unit = "", @title = "Getting Started with R", @reading, @lecture, @assignment, @foldout }
