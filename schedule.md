@@ -133,9 +133,13 @@ That story underscores the challenges organizations face in the realm of data go
 [cite](https://sloanreview.mit.edu/case-study/lessons-from-becoming-a-data-driven-organization/)
 
 
-**Abundant Data by Itself Solves Nothing:** Despite the promise of big data, industrial enterprises are struggling to maximize its value. Why? Abundant data by itself solves nothing. Its unstructured nature, sheer volume, and variety exceed human capacity and traditional tools to organize it efficiently and at a cost which supports return on investment requirements. Inherent challenges tied to evolution and integration of industrial information and operational technology, make it difficult to glean intelligence from operational data, compromising projects underway and promise for further investment and value.  [cite](https://graymattersystems.com/cio-survey-reveals-challenges-opportunities-potential-industrial-big-data/)
+## Abundant Data by Itself Solves Nothing 
 
-**Firms are years away from getting full value from their data assets.** Throwing cash at the problem isn't helping matters either. Companies need to scale back their ambitions to invest in projects that are more evolutionary than revolutionary in nature, looking to tweak rather than overhaul existing operational practices. In short, the best big data strategy may be to go small. [cite](https://www.theregister.co.uk/2017/06/07/go_small_on_big_data/)
+Despite the promise of big data, industrial enterprises are struggling to maximize its value. Why? Abundant data by itself solves nothing. Its unstructured nature, sheer volume, and variety exceed human capacity and traditional tools to organize it efficiently and at a cost which supports return on investment requirements. Inherent challenges tied to evolution and integration of industrial information and operational technology, make it difficult to glean intelligence from operational data, compromising projects underway and promise for further investment and value.  [cite](https://graymattersystems.com/cio-survey-reveals-challenges-opportunities-potential-industrial-big-data/)
+
+## Firms are years away from getting full value from their data assets
+
+Throwing cash at the problem isn't helping matters either. Companies need to scale back their ambitions to invest in projects that are more evolutionary than revolutionary in nature, looking to tweak rather than overhaul existing operational practices. In short, the best big data strategy may be to go small. [cite](https://www.theregister.co.uk/2017/06/07/go_small_on_big_data/)
 
 
 
