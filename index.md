@@ -26,7 +26,7 @@ instructor:
    twitter_url: 
    scholar_url: 
    linked_in_url:
--  name: Eric Van Holm, PhD.
+-  name: Eric van Holm, PhD.
    title: Professor
    email: evanholm@asu.edu
    website_url: https://csteps.asu.edu/content/eric-van-holm
