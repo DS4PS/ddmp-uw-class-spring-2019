@@ -87,7 +87,7 @@ Example code...
 ** Section-I Course Overview
 
 
-*** { @unit = "1st April", @title = "Intro to Data-Driven Management and Policy", @reading = "Chapter 1", @lecture, @assignment, @foldout }
+*** { @unit = "1st April", @title = "Intro to Data-Driven Management and Policy", @reading, @lecture, @assignment, @foldout }
 
 # Topics
 
@@ -99,6 +99,11 @@ Example code...
 
 *** { @unit = "", @title = "Data-Driven Management", @reading, @foldout }
 
+# Readings
+
+## Textbook
+
+Required: [Chapter 1](https://ds4ps.org/Data-Science-Class/TEXTBOOK/docs/introduction-to-r.html)
 
 ## Big Data: The Management Revolution
 
