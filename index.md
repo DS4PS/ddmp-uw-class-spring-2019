@@ -39,6 +39,11 @@ instructor:
    linked_in_url:
    
 textbooks:
+- title: Introduction to Data Science for Social and Policy Research: Collecting and Organizing Data with R and Python.
+  authors: José Manuel Magallanes
+  edition: Not Required
+  link: Free on UW library
+  required (y/n): n
 - title: R Cookbook. Proven recipes
   authors: Paul Teetor
   edition: Not Required
