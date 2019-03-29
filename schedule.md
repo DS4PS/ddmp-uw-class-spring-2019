@@ -87,7 +87,7 @@ Example code...
 ** Section-I Course Overview
 
 
-*** { @unit = "1st April", @title = "Intro to Data-Driven Management and Policy", @reading, @lecture, @assignment, @foldout }
+*** { @unit = "1st April", @title = "Intro to Data-Driven Management and Policy", @reading = "Chapter 1", @lecture, @assignment, @foldout }
 
 # Topics
 
