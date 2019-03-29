@@ -96,7 +96,7 @@ The course will cover ways that data can be used to improve performance in publi
 
 Students  are  expected  to  complete  this  online  tutorial  prior  to  the  course (just the free material),  or have equivalent experience in R:
 
-(https://www.datacamp.com/courses/free-introduction-to-r)[https://www.datacamp.com/courses/free-introduction-to-r]
+https://www.datacamp.com/courses/free-introduction-to-r
 
 
 
