@@ -163,7 +163,7 @@ The technology and the people who deploy it also need a process or system of rul
 
 
 
-*** { @unit = "8th April", @title = "R Basics", @reading, @lecture, @assignment, @foldout }
+*** { @unit = "8th April", @title = "R Basics", @reading=https://hbr.org/2012/10/big-data-the-management-revolution, @lecture, @assignment, @foldout }
 
 # Topics
 
