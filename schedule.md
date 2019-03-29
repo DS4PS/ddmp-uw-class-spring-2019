@@ -189,7 +189,7 @@ The technology and the people who deploy it also need a process or system of rul
 
 
 
-*** { @unit = "22th April", @title = "Data Wrangling", @reading, @lecture, @assignment, @foldout }
+*** { @unit = "22th April", @title = "Working with Data Frames", @reading, @lecture, @assignment, @foldout }
 
 # Topics
 
