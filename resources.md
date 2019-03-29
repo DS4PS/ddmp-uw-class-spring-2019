@@ -139,7 +139,7 @@ library(tidyverse)
 
 For those that are new to data science, I have compiled some useful resources for getting acquainted with R and the data science community, as well as some notable applications of data science in the public and nonprofit sectors.
 
-http://www.lecy.info/r-for-public-policy
+**[DS4PS](https://ds4ps.org)** (Data Science for the Public Sector) Site
 
 </div>
 <br><br><br>
