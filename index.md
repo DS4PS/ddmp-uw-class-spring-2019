@@ -11,7 +11,7 @@ info:
  course_website: https://canvas.uw.edu
  course_start_end_dates: Spring Quarter, 2019
  course_prerequisites: None
- class_meets_when:  Monday 17:00-19:30 Pacific Time
+ class_meets_when:  Monday 17:30-20:20 Pacific Time
  class_meets_where: Online
 
 instructor:
