@@ -157,7 +157,7 @@ The technology and the people who deploy it also need a process or system of rul
 
 # Lab
 
-[Overview](https://github.com/DS4PS/ddmp-uw-class-spring-2019/blob/master/labs/Lab_01_Overview_and_Example.html)
+[Overview](labs/Lab_01_Overview_and_Example.html)
 
 
 [Template](https://www.dropbox.com/preview/Class/UW/Labs/Lab-01-Template.html?role=work)
