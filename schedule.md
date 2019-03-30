@@ -157,9 +157,9 @@ The technology and the people who deploy it also need a process or system of rul
 
 # Lab
 
-[Overview](https://www.dropbox.com/preview/Class/UW/Labs/Lab%2001%20Overview%20and%20Example.Rmd?role=work)
+[Overview](https://www.dropbox.com/preview/Class/UW/Labs/Lab_01_Overview_and_Example.html?role=work)
 
-[Template](https://www.dropbox.com/preview/Class/UW/Labs/Lab-01-Template.Rmd?role=work)
+[Template](https://www.dropbox.com/preview/Class/UW/Labs/Lab-01-Template.html?role=work)
 
 
 
