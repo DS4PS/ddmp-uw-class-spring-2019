@@ -95,10 +95,6 @@ Example code...
 * Uses of data in public management, reasons for doing experiments.
 
 
-
-
-*** { @unit = "", @title = "Data-Driven Management", @reading, @foldout }
-
 # Readings
 
 ## Textbook
@@ -158,7 +154,7 @@ The technology and the people who deploy it also need a process or system of rul
 
 [cite](https://sloanreview.mit.edu/case-study/lessons-from-becoming-a-data-driven-organization/)
 
-
+# Lab
 
 
 
