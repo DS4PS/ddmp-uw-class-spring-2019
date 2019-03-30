@@ -160,7 +160,7 @@ The technology and the people who deploy it also need a process or system of rul
 [Overview](labs/Lab_01_Overview_and_Example.html)
 
 
-[Template](https://www.dropbox.com/preview/Class/UW/Labs/Lab-01-Template.html?role=work)
+[Template](labs/Lab-01-Template.html)
 
 
 
