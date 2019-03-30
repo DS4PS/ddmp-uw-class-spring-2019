@@ -160,7 +160,7 @@ The technology and the people who deploy it also need a process or system of rul
 [Overview](labs/Lab_01_Overview_and_Example.html)
 
 
-[Template](labs/Lab-01-Template.html)
+[Template](labs/Lab-01-Template.Rmd)
 
 
 
