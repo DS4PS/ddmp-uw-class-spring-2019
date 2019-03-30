@@ -153,10 +153,15 @@ The final grade will be comprised of the following weighted elements:
 *  20% for completing Dashboard data repository
 *  20% for completing Dashboard release.
 
+Letter grades comport with a traditional set of intervals:
 
-# Working in groups
-
-This course requires working in groups.  You should have decided who will be in your group by the end of the third week of classes.
+* 100 – 98% = A+ 
+* 97 – 94% = A 
+* 93 – 90% = A - 
+* 89 – 87% = B+ 
+* 86 – 84% = B 
+* 83 – 80% = B –  
+* Below 80% - C, D, F 
 
 
 
