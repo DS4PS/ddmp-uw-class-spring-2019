@@ -91,8 +91,9 @@ Example code...
 
 # Topics
 
-* Introduction to Markdown, R, and R Studio
-* Uses of data in public management, reasons for doing experiments.
+* Introduction to the course
+* Overview of R, R Studio, and Markdown,
+* Uses of data in public management
 
 
 # Readings
@@ -155,6 +156,10 @@ The technology and the people who deploy it also need a process or system of rul
 [cite](https://sloanreview.mit.edu/case-study/lessons-from-becoming-a-data-driven-organization/)
 
 # Lab
+
+[Overview](https://www.dropbox.com/preview/Class/UW/Labs/Lab%2001%20Overview%20and%20Example.Rmd?role=work)
+
+[Template](https://www.dropbox.com/preview/Class/UW/Labs/Lab-01-Template.Rmd?role=work)
 
 
 
