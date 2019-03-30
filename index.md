@@ -32,7 +32,7 @@ instructor:
    website_url: https://csteps.asu.edu/content/eric-van-holm
    office_hours_times: Flexible, by appointment
    office_hours_location:  Virtual
-   office_hours_app_url:  calendly.com/evanholm
+   office_hours_app_url:  https://calendly.com/evanholm
    github_url: 
    twitter_url: 
    scholar_url: https://scholar.google.com/citations?user=xvJW22AAAAAJ&hl=en
