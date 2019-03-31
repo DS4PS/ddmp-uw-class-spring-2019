@@ -137,8 +137,6 @@ Textbook: [Chapter 1](https://ds4ps.org/Data-Science-Class/TEXTBOOK/docs/introdu
 
 ### Required
 
-Textbook: [Chapter 2](https://ds4ps.org/Data-Science-Class/TEXTBOOK/docs/functions.html)
-
 [Reality Mining](https://github.com/DS4PS/ddmp-uw-class-spring-2019/blob/master/Reading/Reality_Mining_Chapter%201pdf.pdf)
 
 [TED - What to Do With Big Data](https://www.ted.com/talks/susan_etlinger_what_do_we_do_with_all_this_big_data)
@@ -249,7 +247,7 @@ Textbook: [Chapter 9-11](https://ds4ps.org/Data-Science-Class/TEXTBOOK/docs/the-
 
 
 
-*** { @unit = "13th May", @title = "Dynamic visualization:", @reading, @lecture, @assignment }
+*** { @unit = "13th May", @title = "Dynamic visualization", @reading, @lecture, @assignment }
 
 # Topics
 
