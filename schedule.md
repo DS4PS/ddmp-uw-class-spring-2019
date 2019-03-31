@@ -98,71 +98,32 @@ Example code...
 
 # Readings
 
-## Textbook
+## Required
 
-Required: [Chapter 1](https://ds4ps.org/Data-Science-Class/TEXTBOOK/docs/introduction-to-r.html)
+Textbook: [Chapter 1](https://ds4ps.org/Data-Science-Class/TEXTBOOK/docs/introduction-to-r.html)
 
-## Big Data: The Management Revolution
+## Suggested
 
-What's new here? Organizations have always used data, but the difference now is the (1) volume, (2) velocity, and (3) variety of data. 
+[Big Data: The Management Revolution](https://github.com/DS4PS/ddmp-uw-class-spring-2019/blob/master/Reading/Big%20Data_%20The%20Management%20Revolution.pdf)
 
-"We can measure and therefore manage more precisely than ever before. We can make better predictions and smarter decisions. We can target more-effective interventions, and can do so in areas that so far have been dominated by gut and intuition rather than by data and rigor....The more companies characterized themselves as data-driven, the better they performed on objective measures of financial and operational results."
+[The Promise of Big Data ](https://www.theregister.co.uk/2017/06/07/go_small_on_big_data/)
 
-"Companies succeed in the big data era not simply because they have more or better data, but because they have leadership teams that set clear goals, define what success looks like, and ask the right questions...As data become cheaper, the complements to data become more valuable. Some of the most crucial of these are data scientists and other professionals skilled at working with large quantities of information. Statistics are important, but many of the key techniques for using big data are rarely taught in traditional statistics courses. Perhaps even more important are skills in cleaning and organizing large data sets; the new kinds of data rarely come in structured formats. Visualization tools and techniques are also increasing in value."
+[Challenges of Harnessing Data](https://sloanreview.mit.edu/case-study/lessons-from-becoming-a-data-driven-organization/)
 
-[cite](https://github.com/DS4PS/ddmp-uw-class-spring-2019/blob/master/Reading/Big%20Data_%20The%20Management%20Revolution.pdf)
+[Abundant Data by Itself Solves Nothing ](https://graymattersystems.com/cio-survey-reveals-challenges-opportunities-potential-industrial-big-data/)
 
+[Go Small on Big Data](https://www.theregister.co.uk/2017/06/07/go_small_on_big_data/)
 
-## The Promise of Big Data 
-
-In 2017 The Economist declared, "Data is to this century what oil was to the last one: a driver of growth and change. Flows of data have created new infrastructure, new businesses, new monopolies, new politics and – crucially – new economics."
-
-In 2011 McKinsey & Co. described big data as "the next frontier for innovation, competition, and productivity.” 
-
-GE looked to big data to drive "changes as profound as industrialization... in the late 1700s".
-
-[cite](https://www.theregister.co.uk/2017/06/07/go_small_on_big_data/)
-
-
-## Challenges of Harnessing Data
-
-Many organizations have been slow in compiling, classifying, and organizing the data sitting in siloes and dark corners. It’s “a boring, boring job,” says Ger Baron, Amsterdam’s first-ever chief technology officer. “But very useful!” 
-
-He ought to know. The Netherlands’ capital has 12,000 different datasets, and even they can’t tell him everything about the city. For example, no one knows exactly how many bridges span Amsterdam’s famous canals, because the city’s individual districts have not centralized their infrastructure data. 
-
-That story underscores the challenges organizations face in the realm of data governance, or the methods and rules that organizations use to assure the quality of data, manage it, integrate it into business processes, and manage its risks. 
-
-[cite](https://sloanreview.mit.edu/case-study/lessons-from-becoming-a-data-driven-organization/)
-
-
-## Abundant Data by Itself Solves Nothing 
-
-Despite the promise of big data, industrial enterprises are struggling to maximize its value. Why? Abundant data by itself solves nothing. Its unstructured nature, sheer volume, and variety exceed human capacity and traditional tools to organize it efficiently and at a cost which supports return on investment requirements. Inherent challenges tied to evolution and integration of industrial information and operational technology, make it difficult to glean intelligence from operational data, compromising projects underway and promise for further investment and value.  [cite](https://graymattersystems.com/cio-survey-reveals-challenges-opportunities-potential-industrial-big-data/)
-
-## Firms are years away from getting full value from their data assets
-
-Throwing cash at the problem isn't helping matters either. Companies need to scale back their ambitions to invest in projects that are more evolutionary than revolutionary in nature, looking to tweak rather than overhaul existing operational practices. In short, the best big data strategy may be to go small. [cite](https://www.theregister.co.uk/2017/06/07/go_small_on_big_data/)
-
-
-
-## Effective Approaches Entail 
-
-Organizations across the business spectrum are awakening to the transformative power of data and analytics. They are also coming to grips with the daunting difficulty of the task that lies before them. It’s tough enough for many organizations to catalog and categorize the data at their disposal and devise the rules and processes for using it. It’s even tougher to translate that data into tangible value.
-
-There  would be no data and analytics revolution without easily accessible, increasingly inexpensive computing power: the cloud, the Internet, and powerful, versatile software and algorithms. Yet technology is only part of the story. People are equally important.
-
-The technology and the people who deploy it also need a process or system of rules to guide how people create and use information. Rules help transform the noise of disordered information into legible signals with the power to sharpen and deepen the focus on the customer (broadly defined), and in the process improve health outcomes, the customer experience, the realization of business value, and civic life and engagement.
-
-[cite](https://sloanreview.mit.edu/case-study/lessons-from-becoming-a-data-driven-organization/)
+[Becoming a Data Drive Org](https://sloanreview.mit.edu/case-study/lessons-from-becoming-a-data-driven-organization/)
 
 # Lab
 
 [Overview](labs/Lab_01_Overview_and_Example.html)
 
-
 [Template](labs/Lab-01-Template.Rmd)
 
 
+# Class Examples
 
 
 
@@ -178,7 +139,17 @@ The technology and the people who deploy it also need a process or system of rul
 * Ways  of  collecting  data:  passive,  active,  administrative  intro  to  life  logging  and  semester project.
 * Design of Experiments.
 
+# Readings
 
+## Required
+
+Textbook: [Chapter 2](https://ds4ps.org/Data-Science-Class/TEXTBOOK/docs/functions.html)
+
+## Suggested
+
+# Lab
+
+# Class Examples
 
 
 
@@ -191,7 +162,17 @@ The technology and the people who deploy it also need a process or system of rul
 * Vectors 
 * Data frames 
 
+# Readings
 
+## Required
+
+Textbook: [Chapter 3](https://ds4ps.org/Data-Science-Class/TEXTBOOK/docs/data-types.html)
+
+## Suggested
+
+# Lab
+
+# Class Examples
 
 
 
@@ -204,7 +185,15 @@ The technology and the people who deploy it also need a process or system of rul
 * Control of execution
 * Functions
 
+# Readings
 
+## Required
+
+## Suggested
+
+# Lab
+
+# Class Examples
 
 
 
@@ -215,7 +204,15 @@ The technology and the people who deploy it also need a process or system of rul
 * Visualization guidelines 
 * R and the grammar of graphics 
 
+# Readings
 
+## Required
+
+## Suggested
+
+# Lab
+
+# Class Examples
 
 
 
@@ -226,7 +223,15 @@ The technology and the people who deploy it also need a process or system of rul
 * Bivariate and multivariate plots
 * Mapping in R
 
+# Readings
 
+## Required
+
+## Suggested
+
+# Lab
+
+# Class Examples
 
 ** Section-III Dashboards
 
@@ -239,7 +244,15 @@ The technology and the people who deploy it also need a process or system of rul
 
 * The design and construction of dashboards.
 
+# Readings
 
+## Required
+
+## Suggested
+
+# Lab
+
+# Class Examples
 
 *** { @unit = "20th May", @title = "Analyzing Managerial Experiments", @reading, @lecture, @assignment }
 
@@ -248,6 +261,15 @@ The technology and the people who deploy it also need a process or system of rul
 * Analysis of experiments
 * Testing outcomes in R
 
+# Readings
+
+## Required
+
+## Suggested
+
+# Lab
+
+# Class Examples
 
 *** { @unit = "27th May", @title = "MEMORIAL DAY" }
 
@@ -265,7 +287,15 @@ Instructions will be given on what to do for this week.
 * Shiny widgets.
 * Advanced dashboards.
 
+# Readings
 
+## Required
+
+## Suggested
+
+# Lab
+
+# Class Examples
 
 *** { @unit = "10th June", @title = "FINAL PROJECTS DUE", @assignment }
 
