@@ -104,13 +104,7 @@ Textbook: [Chapter 1](https://ds4ps.org/Data-Science-Class/TEXTBOOK/docs/introdu
 
 ### Suggested
 
-[Big Data: The Management Revolution](https://github.com/DS4PS/ddmp-uw-class-spring-2019/blob/master/Reading/Big%20Data_%20The%20Management%20Revolution.pdf)
-
 [The Promise of Big Data ](https://www.theregister.co.uk/2017/06/07/go_small_on_big_data/)
-
-[Challenges of Harnessing Data](https://sloanreview.mit.edu/case-study/lessons-from-becoming-a-data-driven-organization/)
-
-[Abundant Data by Itself Solves Nothing ](https://graymattersystems.com/cio-survey-reveals-challenges-opportunities-potential-industrial-big-data/)
 
 [Go Small on Big Data](https://www.theregister.co.uk/2017/06/07/go_small_on_big_data/)
 
@@ -145,7 +139,19 @@ Textbook: [Chapter 1](https://ds4ps.org/Data-Science-Class/TEXTBOOK/docs/introdu
 
 Textbook: [Chapter 2](https://ds4ps.org/Data-Science-Class/TEXTBOOK/docs/functions.html)
 
+[Reality Mining](https://github.com/DS4PS/ddmp-uw-class-spring-2019/blob/master/Reading/Reality_Mining_Chapter%201pdf.pdf)
+
+[TED - What to Do With Big Data](https://www.ted.com/talks/susan_etlinger_what_do_we_do_with_all_this_big_data)
+
 ### Suggested
+
+[Challenges of Harnessing Data](https://sloanreview.mit.edu/case-study/lessons-from-becoming-a-data-driven-organization/)
+
+[Abundant Data by Itself Solves Nothing ](https://graymattersystems.com/cio-survey-reveals-challenges-opportunities-potential-industrial-big-data/)
+
+[Big Data: The Management Revolution](https://github.com/DS4PS/ddmp-uw-class-spring-2019/blob/master/Reading/Big%20Data_%20The%20Management%20Revolution.pdf)
+
+
 
 # Lab
 
@@ -166,7 +172,7 @@ Textbook: [Chapter 2](https://ds4ps.org/Data-Science-Class/TEXTBOOK/docs/functio
 
 ### Required
 
-Textbook: [Chapter 3](https://ds4ps.org/Data-Science-Class/TEXTBOOK/docs/data-types.html)
+Textbook: [Chapter 2-3](https://ds4ps.org/Data-Science-Class/TEXTBOOK/docs/data-types.html)
 
 ### Suggested
 
@@ -189,6 +195,8 @@ Textbook: [Chapter 3](https://ds4ps.org/Data-Science-Class/TEXTBOOK/docs/data-ty
 
 ### Required
 
+Textbook: [Chapter 4-8](https://ds4ps.org/Data-Science-Class/TEXTBOOK/docs/logical-statements.html)
+
 ### Suggested
 
 # Lab
@@ -207,6 +215,9 @@ Textbook: [Chapter 3](https://ds4ps.org/Data-Science-Class/TEXTBOOK/docs/data-ty
 # Readings
 
 ### Required
+
+Textbook: [Chapter 9-11](https://ds4ps.org/Data-Science-Class/TEXTBOOK/docs/the-plot-function.html)
+
 
 ### Suggested
 
