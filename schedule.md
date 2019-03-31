@@ -164,11 +164,11 @@ Textbook: [Chapter 2](https://ds4ps.org/Data-Science-Class/TEXTBOOK/docs/functio
 
 # Readings
 
-## Required
+### Required
 
 Textbook: [Chapter 3](https://ds4ps.org/Data-Science-Class/TEXTBOOK/docs/data-types.html)
 
-## Suggested
+### Suggested
 
 # Lab
 
@@ -187,9 +187,9 @@ Textbook: [Chapter 3](https://ds4ps.org/Data-Science-Class/TEXTBOOK/docs/data-ty
 
 # Readings
 
-## Required
+### Required
 
-## Suggested
+### Suggested
 
 # Lab
 
@@ -206,9 +206,9 @@ Textbook: [Chapter 3](https://ds4ps.org/Data-Science-Class/TEXTBOOK/docs/data-ty
 
 # Readings
 
-## Required
+### Required
 
-## Suggested
+### Suggested
 
 # Lab
 
@@ -225,9 +225,9 @@ Textbook: [Chapter 3](https://ds4ps.org/Data-Science-Class/TEXTBOOK/docs/data-ty
 
 # Readings
 
-## Required
+### Required
 
-## Suggested
+### Suggested
 
 # Lab
 
@@ -246,9 +246,9 @@ Textbook: [Chapter 3](https://ds4ps.org/Data-Science-Class/TEXTBOOK/docs/data-ty
 
 # Readings
 
-## Required
+### Required
 
-## Suggested
+### Suggested
 
 # Lab
 
@@ -263,9 +263,9 @@ Textbook: [Chapter 3](https://ds4ps.org/Data-Science-Class/TEXTBOOK/docs/data-ty
 
 # Readings
 
-## Required
+### Required
 
-## Suggested
+### Suggested
 
 # Lab
 
@@ -289,9 +289,9 @@ Instructions will be given on what to do for this week.
 
 # Readings
 
-## Required
+### Required
 
-## Suggested
+### Suggested
 
 # Lab
 
