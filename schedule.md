@@ -41,26 +41,9 @@ This course focuses on R and Markdown (not quite a language, but a formatting co
 
 # Installing R and R Studio
 
-asdfasfd....
+Go to [r-project.org](https://www.r-project.org/) to find instructions for downloading R. R is necessary for your computer to operate R Studio.
 
-
-*** { @unit = "", @title = "Data-Driven Documents with Markdown", @reading, @lecture, @assignment, @foldout }
-
-[R Markdown: The bigger picture - Garrett Grolemund](https://resources.rstudio.com/rstudio-conf-2019/r-markdown-the-bigger-picture)
-
-
-[Markdown Basics](https://ds4ps.github.io/data-driven-management-textbook/markdown/)
-
-
-
-# My First Markdown File
-
-asdfasdf
-
-
-![](/assets/img/analysis_pipieline.png)
-
-
+R Studio is an integrated development environment (IDE) for R which we'll be using in the class. Once R is downloaded download [R Studio](https://www.rstudio.com/). Both are free.
 
 
 *** { @unit = "", @title = "Getting Started with R", @reading, @lecture, @assignment, @foldout }
@@ -70,17 +53,6 @@ asdfasdf
 If this is your first time working with R, we recommend spending 4 hours to work through some of these examples to become familiar with the syntax and basic data structures:
 
 [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r)
-
-```
-x <- 1:100
-y <- 2*x + rnorm(100)
-plot( x, y )
-```
-
-Example code...
-
-
-
 
 
 
@@ -101,6 +73,10 @@ Example code...
 ### Required
 
 Textbook: [Chapter 1](https://ds4ps.org/Data-Science-Class/TEXTBOOK/docs/introduction-to-r.html)
+
+[R Markdown: The bigger picture - Garrett Grolemund](https://resources.rstudio.com/rstudio-conf-2019/r-markdown-the-bigger-picture)
+
+[Markdown Basics](https://ds4ps.github.io/data-driven-management-textbook/markdown/)
 
 ### Suggested
 
