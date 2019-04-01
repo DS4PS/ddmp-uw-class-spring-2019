@@ -24,7 +24,7 @@ Unit Metadata is comprised of:
 ** Prerequisites
 
 
-*** { @unit = "Prior to April 1st", @title = "Why Learn R", @reading, @lecture, @assignment, @foldout }
+*** { @unit = "Prior to April 1st", @title = "Why Learn R", @reading, @foldout }
 
 
 # Why Learn R (or Python)?
@@ -37,7 +37,7 @@ This course focuses on R and Markdown (not quite a language, but a formatting co
 
 
 
-*** { @unit = "", @title = "Installation", @reading, @lecture, @assignment, @foldout }
+*** { @unit = "", @title = "Installation", @reading, @foldout }
 
 # Installing R and R Studio
 
@@ -46,7 +46,7 @@ Go to [r-project.org](https://www.r-project.org/) to find instructions for downl
 R Studio is an integrated development environment (IDE) for R which we'll be using in the class. Once R is downloaded download [R Studio](https://www.rstudio.com/). Both are free.
 
 
-*** { @unit = "", @title = "Getting Started with R", @reading, @lecture, @assignment, @foldout }
+*** { @unit = "", @title = "Getting Started with R", @reading, @foldout }
 
 # Getting Familiar with R
 
