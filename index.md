@@ -12,7 +12,7 @@ info:
  course_start_end_dates: Spring Quarter, 2019
  course_prerequisites: None
  class_meets_when:  Monday 17:30-20:20 Pacific Time
- class_meets_where: Online
+ class_meets_where: Online using [Zoom](https://asu.zoom.us/j/742627567)
 
 instructor:
 -  name: José Manuel Magallanes, PhD
