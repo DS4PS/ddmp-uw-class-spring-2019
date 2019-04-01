@@ -33,6 +33,8 @@ Data programming languages are different from traditional programming languages.
 
 <iframe src="https://player.vimeo.com/video/180644880" width="800" height="440" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
+[Past and Future of R](https://www.stat.auckland.ac.nz/~ihaka/downloads/Interface98.pdf)
+
 This course focuses on R and Markdown (not quite a language, but a formatting convention for data-driven documents). Python and Notebooks are similar tools that you will encounter in this space, and they are somewhat interchangeable. If you start out as a computer scientist or engineer and evolve into working in the data science space you will likely use Python. If you start as as a social scientists or a statistician and venture into the data science space chances are you are using R. The differences between the two is more cultural than practical.
 
 
