@@ -97,6 +97,9 @@ Textbook: [Chapter 1](https://ds4ps.org/Data-Science-Class/TEXTBOOK/docs/introdu
 
 # Class Examples
 
+[Powerpoint](https://github.com/DS4PS/ddmp-uw-class-spring-2019/blob/master/Reading/Lecture%2001%20-%20Introduction%20to%20the%20Class.pptx)
+
+[Recording of Lecture](https://asu.zoom.us/recording/play/EKu_Dv5Gp7k452S5v5y_o_pYEKuHUNPpn7FT0yoHW2M3-rcrd5wN1nOaU_n1XWqq?continueMode=true)
 
 
 ** Section-II Data Programming
