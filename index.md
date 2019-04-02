@@ -135,6 +135,12 @@ This course has adopted the Evans School Community Conversation Norms.  Please b
 
 The professors reserve the right to make changes to the syllabus during the quarter.  The profes- sors will notify students immediately by email and in class if any changes are made. 
 
+# Submitting Assignments
+
+Please submit your assignments in the appropriate column next to your name in the Google Sheets below. Your assignments should be turned in as a R Markdown file in html; in order to create a shareable link to your work it is best to save your file to either Dropbox or Github and to copy the link from there.
+
+https://docs.google.com/spreadsheets/d/1kbbOlKsM8TX_ZuamWgpf-sZSvaa68wlqI6kmkRV0Zxg/edit?usp=sharing
+
 
 # Grading Policy
 
