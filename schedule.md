@@ -122,7 +122,7 @@ Textbook: [Chapter 1](https://ds4ps.org/Data-Science-Class/TEXTBOOK/docs/introdu
 
 [TED - What to Do With Big Data](https://www.ted.com/talks/susan_etlinger_what_do_we_do_with_all_this_big_data)
 
-[Managerial Experiments](https://github.com/DS4PS/ddmp-uw-class-spring-2019/blob/master/Reading/Appendix%20A%20-%20Experiment%20Design.docx)
+[Managerial Experiments](https://github.com/DS4PS/ddmp-uw-class-spring-2019/blob/master/Reading/Appendix%20A%20-%20Experiment%20Design%20(1).pdf)
 
 ### Suggested
 
