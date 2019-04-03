@@ -137,7 +137,9 @@ The professors reserve the right to make changes to the syllabus during the quar
 
 # Submitting Assignments
 
-Please submit your assignments in the appropriate column next to your name in the Google Sheets below. Your assignments should be turned in as a R Markdown file in html; in order to create a shareable link to your work it is best to save your file to either Dropbox or Github and to copy the link from there.
+Please submit your assignments in the appropriate column next to your name in the Google Sheets below. Your assignments should be turned in as a R Markdown file in html; please publish your markdown using RPubs so that we can view it. Follow this video for a guide to [Rpubs](https://www.youtube.com/watch?v=GJ36zamYVLg)
+
+The link ypu get from RPubs is the one you will paste to the spreadsheet. Notice that we need to see your work when clicking your link. You can use any other way as long as we can see your work. please verify your link after submitting to the following google sheet. 
 
 [Google Sheet](https://docs.google.com/spreadsheets/d/1kbbOlKsM8TX_ZuamWgpf-sZSvaa68wlqI6kmkRV0Zxg/edit?usp=sharing)
 
