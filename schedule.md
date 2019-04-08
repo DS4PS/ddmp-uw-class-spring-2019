@@ -134,7 +134,7 @@ Textbook: [Chapter 1](https://ds4ps.org/Data-Science-Class/TEXTBOOK/docs/introdu
 
 [Big Data: The Management Revolution](https://github.com/DS4PS/ddmp-uw-class-spring-2019/blob/master/Reading/Big%20Data_%20The%20Management%20Revolution.pdf)
 
-
+[Building a Learning Organization](https://hbr.org/1993/07/building-a-learning-organization)
 
 # Lab
 
