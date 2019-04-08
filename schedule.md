@@ -118,6 +118,8 @@ Textbook: [Chapter 1](https://ds4ps.org/Data-Science-Class/TEXTBOOK/docs/introdu
 
 ### Required
 
+[Getting Started on Quantified Life](https://quantifiedself.com/get-started/)
+
 [Reality Mining](https://github.com/DS4PS/ddmp-uw-class-spring-2019/blob/master/Reading/Reality_Mining_Chapter%201pdf.pdf)
 
 [TED - What to Do With Big Data](https://www.ted.com/talks/susan_etlinger_what_do_we_do_with_all_this_big_data)
