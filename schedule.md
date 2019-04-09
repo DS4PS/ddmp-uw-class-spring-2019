@@ -138,7 +138,11 @@ Textbook: [Chapter 1](https://ds4ps.org/Data-Science-Class/TEXTBOOK/docs/introdu
 
 # Lab
 
+[Lab for Homework](https://github.com/DS4PS/ddmp-uw-class-spring-2019/blob/master/labs/Lab%2002%20Template.Rmd)
+
 # Class Examples
+
+[In Class Work](https://github.com/DS4PS/ddmp-uw-class-spring-2019/blob/master/labs/In%20Class%202.Rmd)
 
 
 
