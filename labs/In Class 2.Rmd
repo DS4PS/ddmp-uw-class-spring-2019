@@ -1,10 +1,3 @@
----
-title: "In Class Example - Week 2"
-author: "Eric van Holm"
-date: "4/7/2019"
-output: html_document
----
-
 #Data
 
 *In this lab you'll use data on code violations from Seattle's Open Data Portal, avaliable at:*
