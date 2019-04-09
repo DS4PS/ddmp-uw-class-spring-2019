@@ -14,16 +14,7 @@ https://data.seattle.gov/Community/Code-Complaints-and-Violations/ez4a-iug7
 You'll need to click export to download the data. Save as a CSV file to your machine, preferrably in your class folder.
 
 ```{r}
-dat <- read.csv("Code_Complaints_and_Violations.csv")
-dat2 <- read.csv("../Code_Complaints_and_Violations.csv")
-dat3 <- read.csv("../Data/Code_Complaints_and_Violations.csv")
 
-nrow(dat)
-nrow(dat2)
-nrow(dat3)
-
-names(dat)
-summary(dat)
 ```
 
 
@@ -31,7 +22,6 @@ summary(dat)
 
 ```{r}
 
-table(dat$OriginalCity)
 
 ```
 
@@ -39,8 +29,6 @@ table(dat$OriginalCity)
 # What Type of Violations
 
 ```{r}
-unique(dat$RecordTypeDesc)
-table(dat$RecordTypeDesc)
 
 ```
 
@@ -48,6 +36,5 @@ table(dat$RecordTypeDesc)
 # How are dates formatted
 
 ```{r}
-head(dat$OpenDate)
 
 ```
