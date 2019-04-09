@@ -144,7 +144,9 @@ Textbook: [Chapter 1](https://ds4ps.org/Data-Science-Class/TEXTBOOK/docs/introdu
 
 [In Class Work](https://github.com/DS4PS/ddmp-uw-class-spring-2019/blob/master/labs/In%20Class%202.Rmd)
 
+[Recording of Lecture](https://asu.zoom.us/recording/share/xiGjNWxnP33Y4xIjbacyfFtMOABFywTfFfquD3urC1E?startTime=1554767802000)
 
+[Powerpoint](https://github.com/DS4PS/ddmp-uw-class-spring-2019/blob/master/Reading/Lecture%2002%20-%20Intrroduction%20to%20Experiments.pptx)
 
 
 *** { @unit = "15th April", @title = "Data Structures in R", @reading, @lecture, @assignment, @foldout }
