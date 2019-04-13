@@ -166,8 +166,7 @@ Textbook: [Chapter 2-3](https://ds4ps.org/Data-Science-Class/TEXTBOOK/docs/data-
 # Lab
 
 # Class Examples
-
-[Lesson](https://escience.washington.edu/wp-content/uploads/2019/04/Session3_DataStructures.html)
+<a href="https://escience.washington.edu/wp-content/uploads/2019/04/Session3_DataStructures.html" target="_blank">Lesson code</a>
 
 
 
