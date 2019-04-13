@@ -163,11 +163,11 @@ Textbook: [Chapter 1](https://ds4ps.org/Data-Science-Class/TEXTBOOK/docs/introdu
 
 Textbook: [Chapter 2-3](https://ds4ps.org/Data-Science-Class/TEXTBOOK/docs/data-types.html)
 
-### Suggested
-
 # Lab
 
 # Class Examples
+
+[Lesson](https://escience.washington.edu/wp-content/uploads/2019/04/Session3_DataStructures.html)
 
 
 
