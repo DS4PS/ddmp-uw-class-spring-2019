@@ -165,10 +165,13 @@ Textbook: [Chapter 2-3](https://ds4ps.org/Data-Science-Class/TEXTBOOK/docs/data-
 
 # Lab
 
+[Lab for Homework](https://escience.washington.edu/wp-content/uploads/2019/04/Session3_DataStructures_LAB.html)
+
 # Class Examples
 <a href="https://escience.washington.edu/wp-content/uploads/2019/04/Session3_DataStructures.html" target="_blank">Lesson code</a>
+
 <br>
-[download files for session 3](https://github.com/DS4PS/ddmp-uw-class-spring-2019/raw/master/labs/Session3.zip)
+* [download ALL files for session 3](https://github.com/DS4PS/ddmp-uw-class-spring-2019/raw/master/labs/Session3.zip)
 
 
 
