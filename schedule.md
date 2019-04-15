@@ -163,6 +163,10 @@ Textbook: [Chapter 1](https://ds4ps.org/Data-Science-Class/TEXTBOOK/docs/introdu
 
 Textbook: [Chapter 2-3](https://ds4ps.org/Data-Science-Class/TEXTBOOK/docs/data-types.html)
 
+### Suggested
+
+[Data Sources from Lab 2](https://github.com/DS4PS/ddmp-uw-class-spring-2019/blob/master/Reading/Lab%20Assignment%202%20Data%20Sources.pdf)
+
 # Lab
 
 [Lab for Homework](https://escience.washington.edu/wp-content/uploads/2019/04/Session3_DataStructures_LAB.html)
