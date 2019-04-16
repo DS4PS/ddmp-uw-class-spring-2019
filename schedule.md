@@ -177,7 +177,7 @@ Textbook: [Chapter 2-3](https://ds4ps.org/Data-Science-Class/TEXTBOOK/docs/data-
 <br>
 * [download ALL files for session 3](https://github.com/EvansDataScience/DataDriven_ManagementAndPolicy/raw/master/Session3.zip)
 
-
+[Recording of Lecture](https://asu.zoom.us/recording/share/QZZRh26ZkHz4KYkKbm5QLGrpUWmBsz-UQGd_p_N5t0-wIumekTziMw)
 
 
 *** { @unit = "22th April", @title = "Working with Data Frames", @reading, @lecture, @assignment, @foldout }
