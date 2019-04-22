@@ -194,11 +194,21 @@ Textbook: [Chapter 2-3](https://ds4ps.org/Data-Science-Class/TEXTBOOK/docs/data-
 
 Textbook: [Chapter 4-8](https://ds4ps.org/Data-Science-Class/TEXTBOOK/docs/logical-statements.html)
 
+
 ### Suggested
 
 # Lab
 
+[Lab for Homework](https://escience.washington.edu/wp-content/uploads/2019/04/session4_LAB.html)
+
+
+
 # Class Examples
+
+<a href="https://escience.washington.edu/wp-content/uploads/2019/04/session4_DataFrame.html" target="_blank">Lesson code</a>
+
+
+* [download ALL files for session 4](https://github.com/EvansDataScience/DataDriven_ManagementAndPolicy/raw/master/session4.zip)
 
 
 
