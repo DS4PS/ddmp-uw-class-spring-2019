@@ -210,7 +210,7 @@ Textbook: [Chapter 4-8](https://ds4ps.org/Data-Science-Class/TEXTBOOK/docs/logic
 
 * [download ALL files for session 4](https://github.com/EvansDataScience/DataDriven_ManagementAndPolicy/raw/master/session4.zip)
 
-
+[Recording of Class](https://asu.zoom.us/recording/share/UzY4YVDixOsmkCU5LlA7JqVNpZuT0f6jfg8ICmtwaquwIumekTziMw)
 
 *** { @unit = "29th April", @title = "Intro to Visualization", @reading, @lecture, @assignment, @foldout }
 
