@@ -230,7 +230,14 @@ Textbook: [Chapter 9-11](https://ds4ps.org/Data-Science-Class/TEXTBOOK/docs/the-
 
 # Lab
 
+[Lab for Homework](https://escience.washington.edu/wp-content/uploads/2019/04/session5_LAB.html)
+
 # Class Examples
+
+<a href="https://escience.washington.edu/wp-content/uploads/2019/04/session5.html" target="_blank">Lesson code</a>
+
+
+* [download ALL files for session 5](https://github.com/EvansDataScience/DataDriven_ManagementAndPolicy/raw/master/session5.zip)
 
 
 
