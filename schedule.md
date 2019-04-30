@@ -239,7 +239,7 @@ Textbook: [Chapter 9-11](https://ds4ps.org/Data-Science-Class/TEXTBOOK/docs/the-
 
 * [download ALL files for session 5](https://github.com/EvansDataScience/DataDriven_ManagementAndPolicy/raw/master/session5.zip)
 
-
+[Recording of Class](https://asu.zoom.us/recording/share/RCc1y6K9rxrpaGMCGjaFw21QNxTvgq3yo3JnMYC0enKwIumekTziMw)
 
 *** { @unit = "6th May", @title = "Spatial and Multidimensional visualization", @reading, @lecture, @assignment, @foldout }
 
