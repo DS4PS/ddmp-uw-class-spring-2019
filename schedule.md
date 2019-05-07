@@ -263,7 +263,7 @@ Textbook: [Chapter 9-11](https://ds4ps.org/Data-Science-Class/TEXTBOOK/docs/the-
 
 <a href="https://escience.washington.edu/wp-content/uploads/2019/05/session6.html" target="_blank">Lesson code</a>
 
-* [download ALL files for session 6](https://github.com/EvansDataScience/DataDriven_ManagementAndPolicy/raw/master/session6.zip)
+* [download ALL files for session 6](https://github.com/EvansDataScience/DataDriven_ManagementAndPolicy/raw/master/Session6.zip)
 
 ** Section-III Dashboards
 
