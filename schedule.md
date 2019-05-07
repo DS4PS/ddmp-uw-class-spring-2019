@@ -265,7 +265,7 @@ Textbook: [Chapter 9-11](https://ds4ps.org/Data-Science-Class/TEXTBOOK/docs/the-
 
 * [download ALL files for session 6](https://github.com/EvansDataScience/DataDriven_ManagementAndPolicy/raw/master/Session6.zip)
 
-[Lecture Notes](https://asu.zoom.us/recording/share/kwJpBI7xSdOi-ozjvnOEaTxqoL4G1EQ5TVSBf9oDHnewIumekTziMw)
+[Recording of Class](https://asu.zoom.us/recording/share/kwJpBI7xSdOi-ozjvnOEaTxqoL4G1EQ5TVSBf9oDHnewIumekTziMw)
 
 ** Section-III Dashboards
 
