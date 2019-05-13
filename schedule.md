@@ -269,10 +269,7 @@ Textbook: [Chapter 9-11](https://ds4ps.org/Data-Science-Class/TEXTBOOK/docs/the-
 
 ** Section-III Dashboards
 
-
-
-
-*** { @unit = "13th May", @title = "Dynamic visualization", @reading, @lecture, @assignment }
+*** { @unit = "13th May", @title = "Dynamic visualization", @reading, @lecture, @assignment, @foldout }
 
 # Topics
 
@@ -294,7 +291,7 @@ Textbook: [Chapter 9-11](https://ds4ps.org/Data-Science-Class/TEXTBOOK/docs/the-
 
 # Class Examples
 
-*** { @unit = "20th May", @title = "Analyzing Managerial Experiments", @reading, @lecture, @assignment }
+*** { @unit = "20th May", @title = "Analyzing Managerial Experiments", @reading, @lecture, @assignment, @foldout }
 
 # Topics
 
@@ -320,7 +317,7 @@ Instructions will be given on what to do for this week.
 
 
 
-*** { @unit = "3rd June", @title = "Dashboards II", @reading, @lecture, @assignment }
+*** { @unit = "3rd June", @title = "Dashboards II", @reading, @lecture, @assignment, @foldout }
 
 # Topics
 
@@ -337,7 +334,7 @@ Instructions will be given on what to do for this week.
 
 # Class Examples
 
-*** { @unit = "10th June", @title = "FINAL PROJECTS DUE", @assignment }
+*** { @unit = "10th June", @title = "FINAL PROJECTS DUE", @assignment, @foldout }
 
 # Instructions
 
