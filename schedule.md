@@ -282,11 +282,13 @@ Textbook: [Chapter 9-11](https://ds4ps.org/Data-Science-Class/TEXTBOOK/docs/the-
 
 ### Required
 
+[Flexdashboard Tutorial](https://rmarkdown.rstudio.com/flexdashboard/)
+
+### Suggested
+
 [History of Urban Dashboards](https://placesjournal.org/article/mission-control-a-history-of-the-urban-dashboard/?cn-reloaded=1)
 
 [Laws of Shitty Dashboards](http://attackwithnumbers.com/the-laws-of-shitty-dashboard)
-
-### Suggested
 
 # Lab
 
