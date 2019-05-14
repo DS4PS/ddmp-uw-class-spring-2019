@@ -292,6 +292,8 @@ Textbook: [Chapter 9-11](https://ds4ps.org/Data-Science-Class/TEXTBOOK/docs/the-
 
 [Lab 7 RMD](https://github.com/DS4PS/ddmp-uw-class-spring-2019/blob/master/labs/Lab%207.Rmd)
 
+[Starting Dashboard](https://github.com/DS4PS/ddmp-uw-class-spring-2019/blob/master/labs/Pets_Dashboard.html)
+
 [Data](https://data.seattle.gov/Community/Seattle-Pet-Licenses/jguv-t9rb)
 
 # Class Examples
