@@ -292,6 +292,8 @@ Textbook: [Chapter 9-11](https://ds4ps.org/Data-Science-Class/TEXTBOOK/docs/the-
 
 [Lab 7 RMD](https://github.com/DS4PS/ddmp-uw-class-spring-2019/blob/master/labs/Lab%207.Rmd)
 
+[Data](https://data.seattle.gov/Community/Seattle-Pet-Licenses/jguv-t9rb)
+
 # Class Examples
 
 *** { @unit = "20th May", @title = "Analyzing Managerial Experiments", @reading, @lecture, @assignment, @foldout }
