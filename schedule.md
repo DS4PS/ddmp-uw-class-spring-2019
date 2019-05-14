@@ -256,7 +256,6 @@ Textbook: [Chapter 9-11](https://ds4ps.org/Data-Science-Class/TEXTBOOK/docs/the-
 
 # Lab
 
-
 [Lab for Homework](https://escience.washington.edu/wp-content/uploads/2019/05/session6_LAB.html)
 
 # Class Examples
@@ -288,6 +287,10 @@ Textbook: [Chapter 9-11](https://ds4ps.org/Data-Science-Class/TEXTBOOK/docs/the-
 [Laws of Shitty Dashboards](http://attackwithnumbers.com/the-laws-of-shitty-dashboard)
 
 # Lab
+
+[Lab 7 HTML](https://github.com/DS4PS/ddmp-uw-class-spring-2019/blob/master/labs/Lab_7.html)
+
+[Lab 7 RMD](https://github.com/DS4PS/ddmp-uw-class-spring-2019/blob/master/labs/Lab%207.Rmd)
 
 # Class Examples
 
