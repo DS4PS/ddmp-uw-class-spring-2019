@@ -300,6 +300,8 @@ Textbook: [Chapter 9-11](https://ds4ps.org/Data-Science-Class/TEXTBOOK/docs/the-
 
 *** { @unit = "20th May", @title = "Analyzing Managerial Experiments", @reading, @lecture, @assignment, @foldout }
 
+[Recording of Lecture](https://asu.zoom.us/recording/share/qVs7I0HsMn5YNRqNXfb7hfAY9gNYujb56KAW10GVQ46wIumekTziMw)
+
 # Topics
 
 * Analysis of experiments
