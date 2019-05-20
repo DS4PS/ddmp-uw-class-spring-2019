@@ -347,7 +347,7 @@ Instructions will be given on what to do for this week.
 
 # Instructions
 
-[Final Dashboard Instructions](https://github.com/DS4PS/ddmp-uw-class-spring-2019/blob/master/labs/Final_Project.html)
+[Final Dashboard Instructions](https://github.com/DS4PS/ddmp-uw-class-spring-2019/blob/master/labs/Final%20Project.Rmd)
 
 
 
