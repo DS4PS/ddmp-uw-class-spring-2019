@@ -311,6 +311,8 @@ Textbook: [Chapter 9-11](https://ds4ps.org/Data-Science-Class/TEXTBOOK/docs/the-
 
 ### Required
 
+[Interrupted Time Series](https://github.com/DS4PS/ddmp-uw-class-spring-2019/blob/master/labs/Interrupted%20Time%20Series.pdf)
+
 ### Suggested
 
 # Lab
@@ -318,6 +320,8 @@ Textbook: [Chapter 9-11](https://ds4ps.org/Data-Science-Class/TEXTBOOK/docs/the-
 [Lab 8](https://github.com/DS4PS/ddmp-uw-class-spring-2019/blob/master/labs/Lab%208.Rmd)
 
 # Class Examples
+
+[Class Example - Eric Sleep](https://github.com/DS4PS/ddmp-uw-class-spring-2019/blob/master/labs/Lecture%208.Rmd)
 
 *** { @unit = "27th May", @title = "MEMORIAL DAY" }
 
