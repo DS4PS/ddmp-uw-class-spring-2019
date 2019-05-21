@@ -315,6 +315,8 @@ Textbook: [Chapter 9-11](https://ds4ps.org/Data-Science-Class/TEXTBOOK/docs/the-
 
 # Lab
 
+[Lab 8](https://github.com/DS4PS/ddmp-uw-class-spring-2019/blob/master/labs/Lab%208.Rmd)
+
 # Class Examples
 
 *** { @unit = "27th May", @title = "MEMORIAL DAY" }
