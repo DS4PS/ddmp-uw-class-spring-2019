@@ -15,7 +15,7 @@ In a one tab flex dashboard, create visualizations to display the data generated
 
 *Note* The data is randomly generated, so it is very likely there will not be any affect. That is okay in this assignment and your own, just display the data as best you can to indicate what happened in either direction. 
 
-```{r, echo=F}
+```{r, echo=T}
 set.seed(123)
 day <- 1:28
 meditate <-  ifelse(day > 14, 1, 0)
