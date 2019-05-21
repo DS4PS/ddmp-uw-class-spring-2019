@@ -323,6 +323,8 @@ Textbook: [Chapter 9-11](https://ds4ps.org/Data-Science-Class/TEXTBOOK/docs/the-
 
 [Class Example - Eric Sleep](https://github.com/DS4PS/ddmp-uw-class-spring-2019/blob/master/labs/Lecture%208.Rmd)
 
+[Recording of Lecture](https://asu.zoom.us/recording/share/AZRAxmSQ21eD7L7gLlDGiBLW8jSTztLkylB3vggIqnWwIumekTziMw)
+
 *** { @unit = "27th May", @title = "MEMORIAL DAY" }
 
 # No Classs
