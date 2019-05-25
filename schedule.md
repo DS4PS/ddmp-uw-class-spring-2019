@@ -355,8 +355,10 @@ Instructions will be given on what to do for this week.
 
 # Instructions
 
+[Instructions for Data Repository](http://rpubs.com/evanholm/499103)
 
-### Project Overview
+
+### Dashboard Overview
 
 You are to create a dashboard with 3 tabs in R Markdown and separately submit the code to create visualizations within the dashboard. Both assignments will be submitted to the same Google Sheet used throughout the semester.
 
