@@ -347,48 +347,29 @@ Instructions will be given on what to do for this week.
 
 ### Suggested
 
+[Building Shiny Apps Guide](https://github.com/DS4PS/ddmp-uw-class-spring-2019/blob/master/Reading/Building%20Shiny%20apps%20-%20an%20interactive%20tutorial.pdf
+
+[Shiny App Layout](https://github.com/DS4PS/ddmp-uw-class-spring-2019/blob/master/Reading/Shiny%20-%20Application%20layout%20guide.pdf)
+
 # Lab
+
+[Lab 09](https://github.com/DS4PS/ddmp-uw-class-spring-2019/blob/master/labs/Lab_9.html)
 
 # Class Examples
 
-*** { @unit = "10th June", @title = "FINAL PROJECTS DUE", @assignment, @foldout }
+[Lecture Notes](https://github.com/DS4PS/ddmp-uw-class-spring-2019/blob/master/Reading/Intro%20to%20Shiny.pdf)
+
+Those notes, by virtue of being printed to add to the website, will not be dynamic. If you want to experiment with the sliders and other features, copy the code into R and run with the shiny package.
+
+*** { @unit = "11th June", @title = "FINAL PROJECTS DUE", @assignment, @foldout }
 
 # Instructions
 
+There are two components of the final project, both of which must be completed seperately: the data repository and the dashboard. Instructions for both are below.
+
 [Instructions for Data Repository](http://rpubs.com/evanholm/499103)
 
-
-### Dashboard Overview
-
-You are to create a dashboard with 3 tabs in R Markdown and separately submit the code to create visualizations within the dashboard. Both assignments will be submitted to the same Google Sheet used throughout the semester.
-
-###The 3 tabs will include:
-
-* Tab 1: Overview (15%)
-* Tab 2: Dashboard Visualizations (50%)
-* Tab 3: Reflection (15%)
-* External Markdown (20%)
-
-An additional R Markdown should be submitted alongside your visualizations and the code to generate them. As discussed in class, dashboards are meant to hide all of the nuts and screws they are built on – this additional Markdown gives us the opportunity to see how you created your work and to grade the quality of your code. You do not need to include the code that generated the dashboard, just everything else. The External Markdown will be graded based on the quality and fluency of the code used to generate your images. 
-
-###Tab 1: Overview
-
-Describe the data you collected and the experiment you conducted. The visualizations in tab 2 should be self-explanatory, but here is your chance to add any information that may not come across in that tab. Identify the data sources, the types of data, and how your experiment was tracked. This tab will be graded based on the clarity of your explanation and the quality of your writing. 
-
-###Tab 2: Dashboard Visualizations
-
-Add appropriate visualizations to characterize the data you collected. There is great freedom here in how the page should be laid out, as well as how you display the data. Within the data, be sure to indicate the experiment you conducted and demonstrate the impact it had on your measures. The goal is for the viewer to understand the story that your data is telling. You should display all of the data you collected in at least one visualization.  
-
-Tab 2 comprises the bulk of the assignment (50% of the total). The visualizations tab will be graded on the quality of the visuals, the clarity of the information presented, and the cohesiveness of the story being presented. Remember to follow the rules for good dashboards presented during lecture.  
-
-##Tab 3: Reflection
-
-The Reflection should have two components. The first being a reflection upon what you learned through the experiment. Did you find a solution that worked? Is it something you would continue, why or why not? If you were to design a second experiment to change the same aspect of your life, what would it be? 
-
-The second aspect asks you to reflect upon the class. What do you think you gained from the class and final project? What do you think you learned about organizational experiments and coding? What do you wish you learned?
-
-This tab will be graded based on the clarity of your reflection and the quality of your writing.
- 
+[Instructions for Dashboard](https://github.com/DS4PS/ddmp-uw-class-spring-2019/blob/master/labs/Dashboard_Overview.html)
 
 
 
