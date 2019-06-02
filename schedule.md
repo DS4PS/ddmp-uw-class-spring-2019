@@ -361,6 +361,10 @@ Instructions will be given on what to do for this week.
 
 Those notes, by virtue of being printed to add to the website, will not be dynamic. If you want to experiment with the sliders and other features, copy the code into R and run with the shiny package.
 
+[Lecture Recording](https://youtu.be/JvJe5mljql8)
+
+The lecture was uploaded to YouTube. This is my first time doing that, so please let me know if there are any technical issues.
+
 *** { @unit = "11th June", @title = "FINAL PROJECTS DUE", @assignment, @foldout }
 
 # Instructions
