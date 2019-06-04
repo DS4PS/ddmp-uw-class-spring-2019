@@ -373,7 +373,7 @@ There are two components of the final project, both of which must be completed s
 
 [Instructions for Data Repository](http://rpubs.com/evanholm/499103)
 
-[Instructions for Dashboard](https://github.com/DS4PS/ddmp-uw-class-spring-2019/blob/master/labs/Dashboard_Overview.html)
+[Instructions for Dashboard](https://github.com/DS4PS/ddmp-uw-class-spring-2019/blob/master/labs/Dashboard%20Overview.Rmd)
 
 
 
