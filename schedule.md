@@ -353,7 +353,7 @@ Instructions will be given on what to do for this week.
 
 # Lab
 
-[Lab 09](https://github.com/DS4PS/ddmp-uw-class-spring-2019/blob/master/labs/Lab_9.html)
+[Lab 09](https://github.com/DS4PS/ddmp-uw-class-spring-2019/blob/master/labs/Lab%209.Rmd)
 
 # Class Examples
 
