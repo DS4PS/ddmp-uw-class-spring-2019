@@ -3,37 +3,47 @@ layout: index
 title: Syllabus
 
 info: 
- program_title: Public Affairs Executive Education
+ program_title: Evans School of Public Policy
  program_website: 
- course_title: Data Analytics for the Public Good
- course_number: PAF 586
+ course_title: Data-Driven Management and Policy
+ course_number: PUBPOL 599
  course_level: Graduate
- course_website: https://canvas.asu.edu/courses/26991
- course_start_end_dates: July 3 - August 13, 2019
+ course_website: https://canvas.uw.edu
+ course_start_end_dates: Spring Quarter, 2019
  course_prerequisites: None
- class_meets_when:  Asynchronous
- class_meets_where: https://asu.zoom.us/j/212294195
+ class_meets_when:  Monday 17:30-20:20 Pacific Time
+ class_meets_where: https://asu.zoom.us/j/742627567
 
 instructor:
--  name: Jesse Lecy, PhD
+-  name: José Manuel Magallanes, PhD
    title: Professor
-   email: jdlecy@asu.edu
-   website_url: www.lecy.info
+   email: magajm@uw.edu
+   website_url: https://evans.uw.edu/profile/magallanes
    office_hours_times: Flexible, by appointment
    office_hours_location:  Virtual
    office_hours_app_url:  
-   github_url: https://github.com/lecy
+   github_url: https://github.com/MAGALLANESJoseManuel
    twitter_url: 
-   scholar_url: https://scholar.google.com/citations?user=Ir8H4wMAAAAJ&hl=en
+   scholar_url: 
    linked_in_url:
-
+-  name: Eric van Holm, PhD.
+   title: Professor
+   email: evanholm@asu.edu
+   website_url: https://csteps.asu.edu/content/eric-van-holm
+   office_hours_times: Flexible, by appointment
+   office_hours_location:  Virtual
+   office_hours_app_url:  https://calendly.com/evanholm
+   github_url: 
+   twitter_url: 
+   scholar_url: https://scholar.google.com/citations?user=xvJW22AAAAAJ&hl=en
+   linked_in_url:
    
 textbooks:
-- title: Social Physics: How Social Networks Can Make Us Smarter.
-  authors: Sandy Pentland
-  edition: 2015
-  link: 
-  required (y/n): y
+- title: R Cookbook. Proven recipes
+  authors: Paul Teetor
+  edition: Not Required
+  link: http://www.bagualu.net/wordpress/wp-content/uploads/2015/10/R_Cookbook.pdf
+  required (y/n): n
 - title: R for Data Science
   authors: Wickham, H., & Grolemund, G.
   edition: Free Online
@@ -55,15 +65,7 @@ textbooks:
   link: https://www.amazon.com/Big-Book-Dashboards-Visualizing-Real-World/dp/1119282713/
   required (y/n): n
 
-
-
 --- 
-
-
-2.	Meier, P. (2015). Digital humanitarians: how big data is changing the face of humanitarian response. Routledge. 
-3.	Eagle, N., & Greene, K. (2014). Reality mining: Using big data to engineer a better world. MIT Press. 
-4.	O'Neil, C. (2016). Weapons of math destruction: How big data increases inequality and threatens democracy. Broadway Books.
-
 
 <style> 
 body {
@@ -80,33 +82,22 @@ p.italic {
 
 # Course Description
 
-Public agencies are increasingly interested in unlocking the potential of large-scale data to improve service delivery and inform policy efforts. Computational tools capable of making productive use of big data have proliferated in recent years, drastically decreasing the barriers to entry for interested parties. This course will explore the practice of using data to improve organizational performance, including techniques for data collection, analysis, and behavior change. Students will operate as their own laboratory through a data journaling exercise, and devise strategies for incorporating data into management practices of public and nonprofit organizations. 
-
-One of the key course take-aways is that data can make your organization more effective, but data itself is not sufficient without strong management frameworks. The course is built around a quantified-self experiment where you will use life-logging tools and a journaling system to learn about managing information overload and building goal-oriented, evidence-based routines. 
-
-Students will also explore the social, political, and ethical considerations associated with building and managing data analytics programs in the public sphere. Students will engage critical dilemmas of data privacy, data protection, predictive analytics, personalized service delivery and resource provision, algorithmic regulation, and large-scale data analytics for administrative efficiencies and resource management optimization, among others. 
-
-Students will read several case studies that explore the use of data in organizations, will engage in discussions about socio-economic policy considerations, and write policy guidance frameworks on best practices in evidence-based management, open data, and privacy.
-
+The course will cover ways that data can be used to improve performance in public organizations, as well as tools and techniques for collecting, analyzing, and displaying data.  Thus, an emphasis will both be placed on the substantive idea behind using data for performance management as well as programming.  The class will be taught in R software and will introduce students to its language, structure, and capabilities for data analysis.   Through  R,  students  will  become  comfortable  inputting,  manipulating,  and  visualizing  data  through  the  software.  In addition to the technical skills gained, students will be introduced to how data can drive performance management through a self-directed project and understand the potential and possible abuses of data to drive public organizations.  As part of the class, students will collect their own data, use that data in  an  individual  experiment  to  test  performance,  and  display  the  outcome  using  a  ’dashboard’ in R.
 
 # Course Objectives
 
-At the conclusion of this course, each student will be able to:
-
-* Describe how public agencies harness large-scale data to inform policy design, increase stakeholder engagement, and improve service delivery.  
-* Intelligently consider the social, political, and ethical considerations when building data analytics programs. 
-
-  
+1. Use data analytics to improve performance in public management.  
+2. Understand the R language for the collection and manipulation of data.  
+3. Produce visualizations in dashboards to ease decision making.  
 
 
 
-## Assessment of Student Learning Performance & Proficiency: Keys to Student Success
+# Prerequisites 
 
-Assigned work, including the course data journaling project, active engagement with weekly readings, and the quality of participation in discussion boards are a critical part of the course learning strategy.  The student’s course grade is a direct reflection of demonstrated performance on these tasks. 
+Students  are  expected  to  complete  this  online  tutorial  prior  to  the  course (just the free material),  or have equivalent experience in R:
 
-*	Students should take stated expectations seriously regarding preparation, conduct, and academic honesty in order to receive a grade reflective of outstanding performance.   
-*	Students should be aware that merely completing assigned work in no way guarantees an outstanding grade in the course.  
-*	To receive an outstanding course grade (using the grading scheme described below and the performance assessment approach noted above) all assigned work should completed on time with careful attention to assignment details.   
+https://www.datacamp.com/courses/free-introduction-to-r
+
 
 
 
